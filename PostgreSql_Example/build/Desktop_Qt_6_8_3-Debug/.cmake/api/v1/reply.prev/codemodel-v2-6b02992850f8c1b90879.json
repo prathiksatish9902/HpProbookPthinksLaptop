@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtPostgresBackend",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QtPostgresBackend::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtPostgresBackend-Debug-41d76466d6cc9511caa2.json",
+					"name" : "QtPostgresBackend",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtPostgresBackend_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtPostgresBackend_autogen-Debug-e1d16b5bfb3ff7417c99.json",
+					"name" : "QtPostgresBackend_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtPostgresBackend_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtPostgresBackend_autogen_timestamp_deps-Debug-fd6d7e6f975b2a364f6f.json",
+					"name" : "QtPostgresBackend_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pthinks/PrathikWorkspace/PostgreSql_Example/build/Desktop_Qt_6_8_3-Debug",
+		"source" : "/home/pthinks/PrathikWorkspace/PostgreSql_Example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

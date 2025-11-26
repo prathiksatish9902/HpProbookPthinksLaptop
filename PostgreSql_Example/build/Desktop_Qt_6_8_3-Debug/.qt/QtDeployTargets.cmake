@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QtPostgresBackend_FILE /home/pthinks/PrathikWorkspace/PostgreSql_Example/build/Desktop_Qt_6_8_3-Debug/QtPostgresBackend)
+set(__QT_DEPLOY_TARGET_QtPostgresBackend_TYPE EXECUTABLE)
