@@ -1,0 +1,5 @@
+/home/pthinks/PrathikWorkspace/PostgreSql_Example/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/QtPostgresBackend.dir
+/home/pthinks/PrathikWorkspace/PostgreSql_Example/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/edit_cache.dir
+/home/pthinks/PrathikWorkspace/PostgreSql_Example/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/rebuild_cache.dir
+/home/pthinks/PrathikWorkspace/PostgreSql_Example/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/QtPostgresBackend_autogen_timestamp_deps.dir
+/home/pthinks/PrathikWorkspace/PostgreSql_Example/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/QtPostgresBackend_autogen.dir
